@@ -1,7 +1,5 @@
 # Awesome Python Utilities
 
-!Python Logo
-
 Welcome to the **Awesome Python Utilities** repository! This collection of Python utilities aims to simplify common tasks, enhance productivity, and provide reusable code snippets. Whether you're a beginner or an experienced Python developer, you'll find something useful here.
 
 ## Features
